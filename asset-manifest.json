@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/sticky-notes/static/js/main.7fb88e3e.chunk.js",
+    "main.js.map": "/sticky-notes/static/js/main.7fb88e3e.chunk.js.map",
+    "runtime-main.js": "/sticky-notes/static/js/runtime-main.909ddbb7.js",
+    "runtime-main.js.map": "/sticky-notes/static/js/runtime-main.909ddbb7.js.map",
+    "static/js/2.c13562ba.chunk.js": "/sticky-notes/static/js/2.c13562ba.chunk.js",
+    "static/js/2.c13562ba.chunk.js.map": "/sticky-notes/static/js/2.c13562ba.chunk.js.map",
+    "index.html": "/sticky-notes/index.html",
+    "static/js/2.c13562ba.chunk.js.LICENSE.txt": "/sticky-notes/static/js/2.c13562ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.909ddbb7.js",
+    "static/js/2.c13562ba.chunk.js",
+    "static/js/main.7fb88e3e.chunk.js"
+  ]
+}
